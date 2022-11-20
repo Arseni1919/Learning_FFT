@@ -38,6 +38,3 @@ The code calls two very important functions:
 
 - [realpython | fft](https://realpython.com/python-scipy-fft/)
 - [youtube | But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY&ab_channel=3Blue1Brown)
-- []()
-- []()
-- []()
